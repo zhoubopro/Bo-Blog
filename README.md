@@ -5,7 +5,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 ## Vue 系列
 
 ## Javascript
-
+[javaScript性能优化之代码优化](https://github.com/zhoubopro/Bo-Blog/issues/1)
 ## Webpack
 
 ## CSS
